@@ -1,4 +1,3 @@
-
 library(shiny)
 
 #Imports the data set
